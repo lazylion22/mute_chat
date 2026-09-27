@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Mute Chat
+## Notes: Mutes chat messages that contain Asian characters.
+## Author: You
+## Version: 1.0
+## SavedVariablesPerCharacter: MuteChatDB
+
+mute_chat.lua

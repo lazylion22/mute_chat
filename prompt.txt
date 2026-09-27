@@ -1,0 +1,17 @@
+make a WoW Forever addon(new WoW beta, similar api to WoW Midnight)  interface 16001. 
+
+the addon name is mute_chat. it mutes chat messages that contain Asian characters. 
+
+the addon has a minimap icon, options window and log window. 
+
+when left click the minimap icon it opens the options window, 
+
+when right click the minimap icon it toggles the addon on/off
+
+the options window has a log button that opens the log window. 
+
+the log window shows the history of muted messages.
+
+options and log can be closed with Esc key or by clicking the close button on the window.
+
+if there are more options or buttons to add, then add them to the options window.
